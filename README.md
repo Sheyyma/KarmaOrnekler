@@ -1,1 +1,1 @@
-# Clasroom-rnekleri
+# Classroom-ornekleri
